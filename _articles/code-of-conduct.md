@@ -1,14 +1,14 @@
 ---
 lang: en
-title: Your Code of Conduct
-description: Facilitate healthy and constructive community behavior by adopting and enforcing a code of conduct.
+title: Share knowledge and evolve with the others coders.
+description: Please if you see anything wrong with codes, or breachs... call to team of dev. Post in anywhere you want, how much before we receive. Much faster we gonna run to project a back-response and fix the code/system.
 class: coc
 toc:
-  why-do-i-need-a-code-of-conduct: "Why do I need a code of conduct?"
-  establishing-a-code-of-conduct: "Establishing a code of conduct"
-  deciding-how-youll-enforce-your-code-of-conduct: "Deciding how you’ll enforce your code of conduct"
-  enforcing-your-code-of-conduct: "Enforcing your code of conduct"
-  your-responsibilities-as-a-maintainer: "Your responsibilities as a maintainer"
+  why-do-i-need-a-code-of-conduct: "I am very new to the shared world. This is my second repo post on git, and I certainly have an idea what web codes can do. So, I cannot provide any guarantee other than are in my range of knowlegements of FrameWork, or modules inside in modules, which i don't have wroted."
+  establishing-a-code-of-conduct: "USE TO LEARN, learn to Teach, teach to evolve you and the World."
+  deciding-how-youll-enforce-your-code-of-conduct: "Is just look to my basement of code. It's strongly imatture to can said im a coder, but each stuff in your time."
+  enforcing-your-code-of-conduct: "I'm stay on a highschool of code"
+  your-responsibilities-as-a-maintainer: "Post codes and explains of applications of that sames."
 order: 8
 image: /assets/images/cards/coc.png
 related:
